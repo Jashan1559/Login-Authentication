@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, #9EBBCD, white );
+}
+p{
+    color:#2C4F63;
+}
+a:link{
+    color:#2C4F63;
+}
+a:hover{
+    font-size: large;
+}

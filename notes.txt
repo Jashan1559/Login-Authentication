@@ -1,0 +1,7 @@
+obj={
+    name:["Jai","Geet","Jas"]
+    passwd:["oioi]
+}
+for
+for(i in obj)
+console.log(i);
