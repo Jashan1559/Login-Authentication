@@ -32,12 +32,10 @@ function myFun(){
         
         break;}
         else
-        {document.getElementById("error").innerText="Enter Correct Password/UserName"+document.getElementById("fro").addEventListener("click", function(event){
-            event.preventDefault()
-          });}   
-             
-        
-    }
+        {document.getElementById("error").innerText="Enter Correct Password/UserName"
+        // +document.getElementById("fro").addEventListener("click", function(event){
+        //     event.preventDefault()
+          };}   
     
 }
 
